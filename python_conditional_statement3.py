@@ -1,4 +1,4 @@
-# Question 3!!!!!: Leap Year Explorer
+# Question 3: Leap Year Explorer
 
 # Task 1: Leap Year Checker
 
